@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Donjoshua12/static/css/main.b5c19c64.css",
+    "main.js": "/Donjoshua12/static/js/main.06b98329.js",
+    "static/media/background.jpg": "/Donjoshua12/static/media/background.ccfdaf3b459389be99f0.jpg",
+    "index.html": "/Donjoshua12/index.html",
+    "main.b5c19c64.css.map": "/Donjoshua12/static/css/main.b5c19c64.css.map",
+    "main.06b98329.js.map": "/Donjoshua12/static/js/main.06b98329.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5c19c64.css",
+    "static/js/main.06b98329.js"
+  ]
+}
